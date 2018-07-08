@@ -1,0 +1,54 @@
+{
+         "id": 2,
+         "title": "Main Resturant",
+         "type": "All Goodness",
+         "logo_URL": "https://firebasestorage.googleapis.com/v0/b/ucd-menu.appspot.com/o/2.JPG?alt=media&token=432cc9e7-c2b8-4cf0-844e-7dc2fc0353b2",
+         "opening_hours": "2:30 - 5:30",
+         "opening_days": "Monday - Friday",
+         "menu": [
+            {
+               "name": "Shredded Pork",
+               "servedwith": "Servedwith: Fennel & Ginger",
+               "cost": 5.95,
+               "calories": 400,
+               "alergies": [
+                  "dary",
+                  "soy",
+                  "nuts"
+               ]
+            },
+            {
+                "name": "Spicy Rice with Tomato Sauce.",
+                "servedwith": "Servedwith: Oregano, Tomato, Olive, Feta Cheese",
+                "cost": 5.95,
+                "calories": 550,
+                "alergies": [
+                   "dary",
+                   "soy",
+                   "nuts"
+                ]
+             },
+             {
+                "name": "Baked Vegetarian Focaccia Pizza",
+                "servedwith": "Servedwith: Side Salad & Dressing",
+                "cost": 5.50,
+                "calories": 850,
+                "alergies": [
+                   "dary",
+                   "soy",
+                   "nuts"
+                ]
+             },
+             {
+                "name": "Ultimate Fry's",
+                "servedwith": "Servedwith: Beef Chilli & Feta Cheese",
+                "cost": 4.95,
+                "calories": 650,
+                "alergies": [
+                   "dary",
+                   "soy",
+                   "nuts"
+                ]
+             }
+         ]
+      }

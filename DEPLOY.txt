@@ -1,0 +1,7 @@
+1. Open the MenuSystem in eclipse.
+2. Run the example.ExampleSetup.java file. This will launch two menu servers, the actor interface and the GUI for adding items to a menu.
+    * The external dependency's should work out of the box but if not the project requires the library's contained in the root folder of the project.
+3. Run the iOS app in an emulator and point it to "http://localhost:9000/menus".
+4. Point the GUI to either "http://localhost:9001/menu" or "http://localhost:9002/menu" to add an item to either restaurants menu. It will point to "http://localhost:9001/menu" (Pi's menu) by default
+
+Here’s a video of the app in action: https://youtu.be/uRzgrFqfZlY
